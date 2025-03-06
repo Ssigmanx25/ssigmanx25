@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! If you are reading this then you are most likely got here via my job application. In this github are some of my projects that display my skills and abilties! 
 
 <!--
 **Ssigmanx25/ssigmanx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
